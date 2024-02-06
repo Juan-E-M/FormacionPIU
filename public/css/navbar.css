@@ -1,0 +1,32 @@
+.ocNav{
+    background-color: #525252;
+    width: 100%;
+;
+}
+
+.btnNav{
+    width: 37px;
+    height: 28px;
+    background-color: #525252;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    border-radius: 5px;
+    padding-top: 6px;
+    text-align:center;
+    vertical-align: middle;
+}
+
+.btnNav:hover{
+    background-color: #ffffff;
+    color: #525252;
+    display: inline-block;
+
+}
+
+.btnNav:hover .btnNavIcon {
+    color: #525252;
+}
+
+.btnNavIcon {
+    color: #ffffff;
+}
